@@ -18,6 +18,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npx degit https://github.com/wenrenfangge/vite-basis-vue3-starter.git [your_project_name]
+or
+npx degit git@github.com:wenrenfangge/vite-basis-vue3-starter.git [your_project_name]
 ```
 
 ## Project Setup
