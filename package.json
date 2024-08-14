@@ -1,6 +1,6 @@
 {
   "name": "vite-basis-vue3-starter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
