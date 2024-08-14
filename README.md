@@ -14,6 +14,12 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Use as a Template
+
+```sh
+npx degit https://github.com/wenrenfangge/vite-basis-vue3-starter.git [your_project_name]
+```
+
 ## Project Setup
 
 ```sh
