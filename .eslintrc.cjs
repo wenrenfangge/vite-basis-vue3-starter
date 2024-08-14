@@ -1,3 +1,11 @@
+/*
+ * @Author: 闻人放歌 wenrenfangge@gmail.com
+ * @Date: 2024-08-14 21:08:04
+ * @LastEditors: 闻人放歌 wenrenfangge@gmail.com
+ * @LastEditTime: 2024-08-14 22:51:48
+ * @FilePath: /vite-basis-vue3-starter/.eslintrc.cjs
+ * @Description: eslint配置
+ */
 /* eslint-env node */
 require('@rushstack/eslint-patch/modern-module-resolution')
 
@@ -22,5 +30,8 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest'
-  }
+  },
+  rules: {
+    'vue/multi-word-component-names': 'off',
+  },
 }
